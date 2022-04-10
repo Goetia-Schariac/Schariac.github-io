@@ -56,7 +56,7 @@ prism_plugin:
   line_number: false    # default false
   custom_css:
 prismjs:
-  enable: true
+  enable: false
   preprocess:  'preprocess'
   theme:  'tomorrow'
   line_number: false
